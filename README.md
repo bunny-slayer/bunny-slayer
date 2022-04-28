@@ -1,9 +1,9 @@
-### Hello Fellow Githubers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Yes, hello Fellow Githubers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/voridabunny/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Vorapon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/voraponk/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vorapon's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bunny-slayer.bunny-slayer)
@@ -17,8 +17,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work on UX/UI or Frontend? do reach, [email](hakao97@gmail.com) :)
+- 💬 looking for feedback and improvements, please feel free to comment.
 
 **languages and tools:**  
 
@@ -31,21 +31,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 45 mins   ████████████████░░░░░░░░░   63.37 %
-TypeScript   4 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.62 %
+Python       4 hrs 20 mins   ████████████████░░░░░░░░░   63.37 %
+Javascript   52 mins         ████████░░░░░░░░░░░░░░░░░   32.62 %
 HTML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Others       4  mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **currently ongoing project:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆  Team Thaitan SDG Game Fest by CP Group    
+🌸  CARSUP Startup Project
 <!-- TODO-IST:END -->
 
 
